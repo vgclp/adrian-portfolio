@@ -52,10 +52,10 @@ export default function Page() {
             className="glass mx-auto mb-7 flex items-center gap-2.5 rounded-full py-1.5 pl-2 pr-5"
           >
             <span className="rounded-full bg-gradient-to-r from-cyan-400 to-blue-600 px-3 py-1 font-mono text-[11px] font-bold uppercase tracking-wider text-white">
-              neu
+              2026/27
             </span>
             <span className="font-mono text-xs text-slate-300">
-              Suche Ausbildung & Praktikum als Fachinformatiker SI
+              Suche Praktikum & Ausbildung als Fachinformatiker SI
             </span>
           </motion.div>
 
@@ -88,6 +88,7 @@ export default function Page() {
             <span className="mr-2 text-cyan-400">&gt;_</span>
             <TypingEffect
               phrases={[
+                "Suche Praktikum & Ausbildung 2026/27",
                 "Fachinformatiker für Systemintegration",
                 "Linux • Server • Netzwerke",
                 "Rust-Entwickler",
@@ -214,8 +215,8 @@ export default function Page() {
                   <h4 className="font-bold">Aktuelles Ziel</h4>
                 </div>
                 <p className="text-sm leading-relaxed text-slate-400">
-                  Ausbildungs- oder Praktikumsplatz als Fachinformatiker für Systemintegration — mit
-                  Schwerpunkt Linux, Server und Netzwerke.
+                  Praktikums- oder Ausbildungsplatz <span className="font-semibold text-cyan-200">(Start 2026/27)</span> als
+                  Fachinformatiker für Systemintegration — mit Schwerpunkt Linux, Server und Netzwerke.
                 </p>
                 <a href="#ausbildung" className="mt-4 inline-flex items-center gap-1.5 font-mono text-xs text-cyan-300 hover:text-cyan-100">
                   Mehr zur Bewerbung <ChevronRight className="h-3.5 w-3.5" />

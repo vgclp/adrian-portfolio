@@ -27,7 +27,7 @@ const stats = [
   { value: 6, suffix: "+", label: "Distributionen & BSD installiert", sub: "Arch • Gentoo • NixOS • FreeBSD…" },
   { value: 15, suffix: "+", label: "Eigene Tools & Skripte", sub: "Rust • Bash • CLI • GUI" },
   { value: 100, suffix: "%", label: "Lernbereitschaft", sub: "autodidaktisch, täglich" },
-  { value: 2026, suffix: "", label: "Ausbildungsstart angepeilt", sub: "Fachinformatiker SI" },
+  { value: 2026, suffix: "", label: "Praktikum & Ausbildung", sub: "Start 2026/27 · Fachinformatiker SI" },
 ];
 
 export default function Stats() {
@@ -69,7 +69,7 @@ export function HeroBadges() {
       </span>
       <span className="rounded-full border border-emerald-400/30 bg-emerald-400/10 px-4 py-1.5 font-mono text-xs text-emerald-300">
         <span className="mr-1.5 inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.9)]" />
-        offen für Ausbildung & Praktikum
+        Praktikum & Ausbildung 2026/27 gesucht
       </span>
     </motion.div>
   );

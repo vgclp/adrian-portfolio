@@ -24,7 +24,7 @@ export default function Contact() {
           Lass uns <span className="neon-text">sprechen</span>
         </h2>
         <p className="mt-4 text-slate-400 md:text-lg">
-          Ausbildungsplatz oder Praktikum als Fachinformatiker für Systemintegration? Ich freue mich auf Ihre Nachricht.
+          Praktikums- oder Ausbildungsplatz (2026/27) als Fachinformatiker für Systemintegration? Ich freue mich auf Ihre Nachricht.
         </p>
         <div className="neon-line mx-auto mt-6 w-48" />
       </div>

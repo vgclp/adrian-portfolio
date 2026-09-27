@@ -16,8 +16,8 @@ const reasons = [
 
 const timeline = [
   { year: "Heute", title: "Schüler & Linux-Enthusiast", text: "Täglich Linux, Rust und Systemadministration. Eigene Projekte: Silen Linux, SPK-Paketmanager, Tools.", active: true },
-  { year: "2026", title: "Praktikum gesucht", text: "Ich suche ein Schülerpraktikum im IT-Bereich — gerne Systemintegration, Netzwerk oder Linux-Administration.", active: false },
-  { year: "2026+", title: "Ausbildung Fachinformatiker SI", text: "Mein Ziel: Ausbildung als Fachinformatiker für Systemintegration. Motivation, Grundlagen und Lernwille bringe ich mit.", active: false },
+  { year: "2026/27", title: "Praktikum gesucht", text: "Ich suche für 2026/27 ein Schülerpraktikum im IT-Bereich — gerne Systemintegration, Netzwerk oder Linux-Administration.", active: false },
+  { year: "2026/27", title: "Ausbildung Fachinformatiker SI", text: "Mein Ziel für 2026/27: Ausbildung als Fachinformatiker für Systemintegration. Motivation, Grundlagen und Lernwille bringe ich mit.", active: false },
 ];
 
 export default function Ausbildung() {
@@ -30,7 +30,7 @@ export default function Ausbildung() {
         <h2 className="mt-3 text-3xl font-bold md:text-5xl">
           Bewerbung als <span className="neon-text">Fachinformatiker</span>
         </h2>
-        <p className="mt-4 text-slate-400 md:text-lg">Fachrichtung Systemintegration — darum brenne ich für IT.</p>
+        <p className="mt-4 text-slate-400 md:text-lg">Fachrichtung Systemintegration — Praktikum & Ausbildung ab 2026/27 gesucht.</p>
         <div className="neon-line mx-auto mt-6 w-48" />
       </div>
 

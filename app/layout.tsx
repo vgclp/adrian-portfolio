@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Adrian Neubauer — Fachinformatiker Systemintegration | Linux & Rust Portfolio",
   description:
-    "Portfolio von Adrian Neubauer (16) aus Weinheim: Linux, Netzwerke, Server, Rust. Bewerbung als Fachinformatiker für Systemintegration – Ausbildung & Praktikum.",
+    "Portfolio von Adrian Neubauer (16) aus Weinheim: Linux, Netzwerke, Server, Rust. Sucht Praktikum & Ausbildung 2026/27 als Fachinformatiker für Systemintegration.",
   keywords: [
     "Adrian Neubauer",
     "Fachinformatiker Systemintegration",
@@ -20,8 +20,8 @@ export const metadata: Metadata = {
   authors: [{ name: "Adrian Neubauer" }],
   openGraph: {
     title: "Adrian Neubauer — Linux • Server • Rust",
-    description:
-      "Schüler aus Weinheim. Sucht Ausbildung als Fachinformatiker für Systemintegration. Linux, Netzwerke, Server, Rust.",
+      description:
+        "Schüler aus Weinheim. Sucht Praktikum & Ausbildung 2026/27 als Fachinformatiker für Systemintegration. Linux, Netzwerke, Server, Rust.",
     type: "website",
     locale: "de_DE",
   },
